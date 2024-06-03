@@ -8,7 +8,7 @@
 
 Para la etapa de experimentación, se implementó todos los criterios descritos en la sección 5 de Diseño del agente y de la sección 06 Componentes del agente. Esta implementación se realizó en Python usando la librería EXPERTA, que es la librería para trabajar con sistemas expertos en Python. Esta librería se basa en el sistema CLIPS que también aborda el tema de sistemas expertos.
 
-![](https://file+.vscode-resource.vscode-cdn.net/home/stevend/Documents/maestria_UNI/Fundamentos/proyecto_final/proyecto/entregable_final/img/otros/img_experta.png?version%3D1717387153837)
+![](./image/readme/otros/img_experta.png)
 
 
 **# Experimento  Ingreso al área de TI.**
