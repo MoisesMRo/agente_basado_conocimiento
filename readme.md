@@ -16,4 +16,4 @@ Para la etapa de experimentación, se implementó todos los criterios descritos 
 Para los postulantes a de TI en el sistema evalúa a los postulantes mediante un conjunto de condiciones, estas reglas se muestran en la tabla 05. Se activa si la empresa tiene vacantes en el área de TI y el postulante ha aplicado para esa área. Además, el postulante debe poseer habilidades duras en desarrollo de software, seguridad informática y gestión de redes, así como habilidades blandas en comunicación y trabajo en equipo. Si todas estas condiciones se cumplen, el postulante es considerado para la vacante en TI.
 
 
-![](https://file+.vscode-resource.vscode-cdn.net/home/stevend/Documents/maestria_UNI/Fundamentos/proyecto_final/proyecto/entregable_final/image/readme/1717387270052.png?version%3D1717387286894)
+![](./image/readme/./image/readme/1717387027455.png)
